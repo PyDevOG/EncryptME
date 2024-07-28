@@ -1,0 +1,10 @@
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\bin\Debug\EncryptMe.exe.config
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\bin\Debug\EncryptMe.exe
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\bin\Debug\EncryptMe.pdb
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\obj\Debug\EncryptMe.csproj.AssemblyReference.cache
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\obj\Debug\EncryptMe.Form1.resources
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\obj\Debug\EncryptMe.Properties.Resources.resources
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\obj\Debug\EncryptMe.csproj.GenerateResource.cache
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\obj\Debug\EncryptMe.csproj.CoreCompileInputs.cache
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\obj\Debug\EncryptMe.exe
+C:\Users\Badus\source\repos\EncryptMe\EncryptMe\obj\Debug\EncryptMe.pdb
