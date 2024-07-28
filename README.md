@@ -1,3 +1,4 @@
+![Capture](https://github.com/user-attachments/assets/d14f279f-9ab0-47f6-97c1-0259455d60d2)
 # EncryptMe
 
 EncryptMe is a Windows Forms application that encrypts executable files and generates a stub to decrypt and execute the original file at runtime. The program uses AES encryption to secure the file and optionally adds a digital signature to the output executable.
