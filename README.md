@@ -101,3 +101,8 @@ By using this software, you agree to the following terms:
 
 This project is licensed under the MIT License.
 
+
+
+## Donate and Ill make it FUD. 
+
+Tron Address: TYa6hbouPRdMG7GyHBng6tgPFwTgiiokiV
