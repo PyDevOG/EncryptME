@@ -1,4 +1,3 @@
-![Capture](https://github.com/user-attachments/assets/693bb6a0-524b-4415-80f2-1d9dd6e804e2)
 ![Capture](https://github.com/user-attachments/assets/d14f279f-9ab0-47f6-97c1-0259455d60d2)
 # EncryptMe
 
@@ -95,6 +94,8 @@ By using this software, you agree to the following terms:
 - The author takes no responsibility for any damage that may arise from the use of this software.
 - The user assumes all responsibility for ensuring compliance with all applicable laws and regulations when using this software.
 - The author is not liable for any misuse of this software or any illegal activities conducted with it.
+
+![Capture](https://github.com/user-attachments/assets/693bb6a0-524b-4415-80f2-1d9dd6e804e2)
 
 ## License
 
